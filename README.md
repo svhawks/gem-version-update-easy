@@ -1,6 +1,10 @@
 # gem-version-update-easy
 
 1 Liner to update gem version
+Create a file called .gem-version
+put the version number like
+1.0.1
+
 
 ````
 require File.expand_path('../lib/gem_version', __FILE__)
